@@ -1,5 +1,6 @@
 # ReactJs
-Repositório exclusivo para o estudo do React
+<p>Repositório exclusivo para o estudo do React</p><br>
+<p>Seja bem-vindo e volte sempre!!!</p>
 
 # Modulo 1: Iniciando com React.js
 <strong>Bundlers:</strong> 
@@ -37,4 +38,17 @@ Repositório exclusivo para o estudo do React
  <li>Selecione o Framework que você irá utilizar.</li>
  <li>Selecione a linguagem do projeto e acesso o projeto.</li>
  </ol>   
+
+<strong><li>Inicializando o projeto</li></strong>
+ <ol>
+ <li>instale as dependencias do projeto</li>
+    
+    npm i
+ 
+ <li>inicie o projeto com o comando abaixo:</li>
+    
+    npm run dev
+ </ol>
+ 
 </ol>
+
